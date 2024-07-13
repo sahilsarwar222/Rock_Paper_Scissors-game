@@ -8,4 +8,5 @@ A simple implementation of the classic "Stone Paper Scissors" game. This project
 Technologies Used:-
 [Language]
 - (JavaScript, HTML/CSS)
+  
 : Feel free to contribute or use this project as a learning tool!
